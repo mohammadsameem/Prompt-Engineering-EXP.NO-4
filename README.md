@@ -40,5 +40,6 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+[Ex NO 4.pdf](https://github.com/user-attachments/files/28206887/Ex.NO.4.pdf)
 
-  RESULT:
+  RESULT:The experiment was successfully completed. Prompts for all three types — Comparative Analysis, Experiential Perspective, and Everyday Functioning — were generated using the smartphone selection scenario from Unit 5 and two additional real-life use cases. Detailed outputs were produced for each prompt type demonstrating how the AI model responds to each prompt category. Each prompt was designed to clearly reflect the purpose, depth, and perspective appropriate to its prompt type, and the outputs confirmed that the prompts effectively elicited the intended style of response.
